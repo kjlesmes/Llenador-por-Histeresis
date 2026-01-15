@@ -41,7 +41,7 @@ El sistema utiliza control por histéresis para regular el proceso de llenado:
 
 ## Requisitos de Software
 
-- SolidWorks 2020 o superior (para visualización y edición de archivos CAD)
+- SolidWorks 2020 o superior (para visualización y edición de archivos CAD) , el acceso a este proyecto completo esta optimizado en mi Drive personal debido a la limitacion de subida de archivos de >25MB de Github.
 
 ## Licencia
 
@@ -51,3 +51,4 @@ Proyecto de portafolio personal.
 
 Ing. Karen lesmes
 ---
+
